@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Android build
+android/.gradle/
+android/app/build/
+android/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+

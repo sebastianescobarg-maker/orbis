@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.orbis",
+  "appName": "orbis-sistema-central",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
